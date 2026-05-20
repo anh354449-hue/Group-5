@@ -27,7 +27,7 @@ The project was carried out by Group 5, with each member contributing to specifi
 | Name | Student ID | Role | Responsibilities |
 |------|------|------|------|
 | Tran Hoang Anh | 11247449 | Team Leader / Data Analyst | Participated in all three stages of the project, including data cleaning, exploratory data analysis (EDA), preprocessing, machine learning modeling, and project content integration. |
-| Nguyen Thi Diu | 123458 | Data Analyst | Supported data cleaning in `01_LamSachDuLieu.ipynb`, exploratory data analysis (EDA), and data visualization. |
+| Nguyen Thi Diu | 11247454 | Data Analyst | Supported data cleaning in `01_LamSachDuLieu.ipynb`, exploratory data analysis (EDA), and data visualization. |
 | Do Anh Duong | 11247455 | Data Engineer / ML Support | Analyzed key characteristics of the dataset in `02_KhamPhaDuLieu.ipynb`, while also supporting model interpretation and feature importance analysis in the modeling stage. |
 | Le Hieu Minh | 11247481 | Machine Learning Engineer | Supported preprocessing, model building, and model training in `03_HuanLuyenModel.ipynb`, evaluated model performance, and completed the `README.md` file. |
 
